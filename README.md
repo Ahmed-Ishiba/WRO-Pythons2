@@ -8,7 +8,7 @@ For seeing the blocks and moving accordingly we used the Openmv H7 plus camera m
 
 ![openmv1](https://user-images.githubusercontent.com/53234566/190664656-b2dc7a8f-ef66-465b-81c5-f77d46647ddd.jpg)
 
->Link of components can be found at the end
+
 
 
 For communicating with the camera module and order the motors to move accordingly we used an ordinary Arduino Nano 
